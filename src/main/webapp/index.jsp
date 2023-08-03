@@ -3,16 +3,16 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Welcome to HDFCSA BANK</title>
+<title>Welcome to hello wld </title>
 <style>
   body {
-    background-color: red;
+    background-color: yellowishpink;
   }
 </style>
 </head>
 <body>
-<h1>Welcome to HDFCSA BANK</h1>
-<p>This is a sample Welcome to HDFCSA BANK application for 2023 July Morrning Batch.</p>
+<h1>Welcome to Hello world</h1>
+<p>This is a sample Welcome to Hello world application for 2023 July  Batch.</p>
 </body>
 </html>
 
